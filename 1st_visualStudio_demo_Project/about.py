@@ -1,2 +1,1 @@
-print("hello ppython code") 
 print("successfully commited ")
